@@ -19,9 +19,9 @@
                       </a>
                       email :  string(18)"younntha@gmail.com"
                     </pre>
-- 😄 Pronouns: honstly I don't know what should input here but **-u-**
-  my name is younes ... you + nes -> you as name -> youname **@w@**
-  and my bloke names is panthe_a ... pantha  -> panda **^U^**
+- 😄 Pronouns: honstly I don't know what should input here but **-u-**<bre/>
+  my name is younes ... you + nes -> you as name -> youname **@w@**<bre/>
+  and my bloke names is panthe_a ... pantha  -> panda **^U^**<bre/>
   by the way V R yountha
 - ⚡ Fun fact: if my bloke know I called here panda i would die -o-
 
