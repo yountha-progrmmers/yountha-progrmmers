@@ -17,9 +17,11 @@
                         telegram
                       </a>
                       <bre/>
-                      <a href = yountha@gmail.com>
-                        Email
-                      </a>
+                      email : 
+                      <?php
+                      $email = "younntha@gmail.com";
+                      echo $email;
+                      ?>
                       
 - 😄 Pronouns: honstly I don't know what should input here but **-u-**
   my name is younes ... you + nes -> you as name -> youname **@w@**
