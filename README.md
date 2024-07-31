@@ -13,16 +13,12 @@
                     </pre>
           </html>
 - 💞️ I’m looking to collaborate on backend developer
-- 📫 How to reach me <a href = https://t.me/ACE_7_youname_7>
+- 📫 How to reach me <pre>
+                      <a href = https://t.me/ACE_7_youname_7>
                         telegram
                       </a>
-                      <bre/>
-                      email : 
-                      <?php
-                      $email = "younntha@gmail.com";
-                      echo $email;
-                      ?>
-                      
+                      email :  string(18)"younntha@gmail.com"
+                    </pre>
 - 😄 Pronouns: honstly I don't know what should input here but **-u-**
   my name is younes ... you + nes -> you as name -> youname **@w@**
   and my bloke names is panthe_a ... pantha  -> panda **^U^**
