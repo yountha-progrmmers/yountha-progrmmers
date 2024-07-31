@@ -6,7 +6,7 @@
                               html
                               python = [ kivy , django ]
                               mysql;
-                              <?php $php=[oop , laravel]; ?>
+                              $php=[oop , laravel];
                               Docker
                               css
                               js
